@@ -1,5 +1,5 @@
 # Hiyoo!
-Hello, I'm Thebel! I'm a 16 year old with a passion for technology. I love offensive security and exploring a wide range of tech topics. Some of my interests are penetration testing, robotics, linux, reverse engineering and web development, and right now, I’m trying to learn more regarding coding languages.
+Hello, I'm Thebel! I'm a 17 year old with a passion for technology. I love offensive security and exploring a wide range of tech topics. Some of my interests are penetration testing, robotics, linux, reverse engineering and web development, and right now, I’m trying to learn more regarding coding languages.
 <br>
 <br>
 ### What I am learning:
